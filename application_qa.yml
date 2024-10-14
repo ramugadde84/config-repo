@@ -1,1 +1,2 @@
-
+myapp:
+  property: "My App QA Property Value"
